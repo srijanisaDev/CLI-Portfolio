@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Srijan | Portfolio</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      html, body {
+        width: 100%;
+        height: 100%;
+        background-color: #0d0d0d;
+        font-family: "Courier New", Courier, monospace;
+        font-size: 15px;
+        color: #ffffff;
+      }
+
+      #terminal {
+        width: 100%;
+        min-height: 100vh;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+      }
+
+      #output {
+        white-space: pre-wrap;
+        word-break: break-word;
+      }
+
+      #input-line {
+        display: flex;
+        align-items: center;
+        margin-top: 2px;
+        white-space: pre;
+      }
+
+      #prompt {
+        color: #00ff00;
+        flex-shrink: 0;
+      }
+
+      #user-input {
+        background: transparent;
+        border: none;
+        outline: none;
+        color: #ffffff;
+        font-family: "Courier New", Courier, monospace;
+        font-size: 15px;
+        flex: 1;
+        caret-color: #00ff00;
+      }
+
+      .green   { color: #00ff00; }
+      .white   { color: #ffffff; }
+      .cyan    { color: #00ffff; }
+      .yellow  { color: #ffff00; }
+      .red     { color: #ff4444; }
+      .magenta { color: #ff44ff; }
+
+      body::-webkit-scrollbar { width: 8px; }
+      body::-webkit-scrollbar-track { background: #1a1a1a; }
+      body::-webkit-scrollbar-thumb { background: #00ff00; border-radius: 4px; }
+      body::-webkit-scrollbar-thumb:hover { background: #00cc00; }
+    </style>
+  </head>
+  <body>
+    <div id="terminal">
+      <div id="output"></div>
+      <div id="input-line">
+        <span id="prompt">srijan@portfolio:~$ </span>
+        <input
+          id="user-input"
+          type="text"
+          autofocus
+          autocomplete="off"
+          spellcheck="false"
+          aria-label="Terminal input"
+          title="Terminal input"
+        />
+      </div>
+    </div>
+    <script type="module" src="/src/terminal.js"></script>
+  </body>
+</html>
