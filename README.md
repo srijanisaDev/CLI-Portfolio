@@ -1,6 +1,4 @@
-Here is the complete `README.md` for your project:
-
-```md
+```m
 # 🖥️ Srijan's Terminal Portfolio
 
 An interactive, terminal-style portfolio website built with Vite and vanilla JavaScript. Navigate through my work just like you would in a real Linux terminal — complete with commands, a virtual filesystem, easter eggs, and math support.
