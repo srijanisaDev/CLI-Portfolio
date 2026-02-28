@@ -21,7 +21,7 @@ what makes me explore more and more.
 Name        : Srijan
 Role        : Full Stack Developer
 Based       : Deoghar, Jharkhand, India
-Email       : srijankumar770@gmail.com
+Email       : <a href="mailto:srijankumar770@gmail.com" target="_blank">srijankumar770@gmail.com</a>
             `
           },
           "education.txt": {
@@ -57,7 +57,7 @@ Graduating  : 2027
             content: `
 📬 Contact
 ─────────────────────────────
-Email       : srijankumar770@gmail.com
+Email       : <a href="mailto:srijankumar770@gmail.com" target="_blank">srijankumar770@gmail.com</a>
 Location    : Deoghar, Jharkhand, India
             `
           }
@@ -75,8 +75,8 @@ Event       : CyberPeace Hackathon by CyberPeace Foundation (Delhi NGO)
 Prize       : 🥈 Second Place
 Description : A chatbot that helps people who are victims of cybercrime
               by suggesting next steps and guiding them through the process.
-GitHub      : https://github.com/srijanisaDev/CyberPeace_Hackathon
-Live        : https://cyberspace.omprakash.me/
+GitHub      : <a href="https://github.com/srijanisaDev/CyberPeace_Hackathon" target="_blank">https://github.com/srijanisaDev/CyberPeace_Hackathon</a>
+Live        : <a href="https://cyberspace.omprakash.me/" target="_blank">https://cyberspace.omprakash.me/</a>
             `
           },
           "fraud_detection.txt": {
@@ -87,18 +87,36 @@ Live        : https://cyberspace.omprakash.me/
 Event       : Pandora's Paradox Hackathon by E-Cell
 Description : A machine learning system to detect fraudulent
               credit card transactions in real time.
-GitHub      : https://github.com/srijanisaDev
+GitHub      : <a href="https://github.com/srijanisaDev" target="_blank">https://github.com/srijanisaDev</a>
 Stack       : Python, Scikit-learn, TensorFlow, Streamlit
+            `
+          },
+          "nlp_learning.txt": {
+            type: "file",
+            content: `
+📚 NLP From Scratch
+─────────────────────────────
+Type        : Learning Repository
+Description : A comprehensive documentation of everything I have
+              come across while learning NLP concepts from scratch.
+              Each concept is documented in detail for reference
+              and to help others learning NLP.
+Topics      : Tokenization, Embeddings, Transformers, Attention,
+              Text Classification, Sequence Models & more
+GitHub      : <a href="https://github.com/srijanisaDev/NLP-from-scratch" target="_blank">https://github.com/srijanisaDev/NLP-from-scratch</a>
             `
           },
           "more_projects.txt": {
             type: "file",
             content: `
 🔗 More of my work:
-  GitHub : https://github.com/srijanisaDev
+  GitHub : <a href="https://github.com/srijanisaDev" target="_blank">https://github.com/srijanisaDev</a>
 
   I keep sharing projects and learnings regularly.
   Feel free to explore and star anything useful! ⭐
+
+  Latest addition: NLP From Scratch 📚
+  cat nlp_learning.txt to know more!
             `
           },
           "why_no_bugs.txt": {
@@ -170,7 +188,7 @@ I'm a portfolio, not a villain. 😄
 🥈 Second Prize — CyberPeace Hackathon
    Conducted by CyberPeace Foundation, Delhi
    Built a cybercrime assistance chatbot
-   Live: https://cyberspace.omprakash.me/
+   Live: <a href="https://cyberspace.omprakash.me/" target="_blank">https://cyberspace.omprakash.me/</a>
 
 🤝 Participated — Pandora's Paradox Hackathon
    Conducted by E-Cell
@@ -178,7 +196,7 @@ I'm a portfolio, not a villain. 😄
 
 💻 Active Open Source Contributor
    Regularly sharing projects & learnings on GitHub
-   GitHub: https://github.com/srijanisaDev
+   GitHub: <a href="https://github.com/srijanisaDev" target="_blank">https://github.com/srijanisaDev</a>
 
 🎓 Pursuing B.Tech CS at KIIT, Bhubaneswar (2027)
             `
@@ -193,10 +211,10 @@ I'm a portfolio, not a villain. 😄
             content: `
 🌐 Find me on the internet!
 ─────────────────────────────
-GitHub    : https://github.com/srijanisaDev
-LinkedIn  : https://www.linkedin.com/in/srijan-link
-Instagram : https://www.instagram.com/_sri.jan/
-Email     : srijankumar770@gmail.com
+GitHub    : <a href="https://github.com/srijanisaDev" target="_blank">https://github.com/srijanisaDev</a>
+LinkedIn  : <a href="https://www.linkedin.com/in/srijan-link" target="_blank">https://www.linkedin.com/in/srijan-link</a>
+Instagram : <a href="https://www.instagram.com/_sri.jan/" target="_blank">https://www.instagram.com/_sri.jan/</a>
+Email     : <a href="mailto:srijankumar770@gmail.com" target="_blank">srijankumar770@gmail.com</a>
             `
           }
         }
@@ -207,7 +225,7 @@ Email     : srijankumar770@gmail.com
 📄 Srijan's Resume
 ─────────────────────────────
 View / Download here:
-https://drive.google.com/file/d/1NO1_TgpaU3GlUyiHTesfcaFFaMkj14on/view?usp=sharing
+<a href="https://drive.google.com/file/d/1NO1_TgpaU3GlUyiHTesfcaFFaMkj14on/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1NO1_TgpaU3GlUyiHTesfcaFFaMkj14on/view?usp=sharing</a>
         `
       },
       "README.md": {

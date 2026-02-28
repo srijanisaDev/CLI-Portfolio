@@ -94,6 +94,7 @@ Virtual Filesystem:
   ├── projects/
   │   ├── cyberpeace_bot.txt
   │   ├── fraud_detection.txt
+  │   ├── nlp_learning.txt
   │   ├── more_projects.txt
   │   └── ... (find the easter eggs 🥚)
   ├── achievements/
