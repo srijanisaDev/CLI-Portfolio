@@ -182,4 +182,35 @@ This project is open source and available under the [MIT License](LICENSE).
 # Create the file and paste the content above into it
 ```
 
-Or just create a new file called `README.md` in the root of `portfolio-cli/` and paste this content in. This readme is ready to be pushed to GitHub and will render beautifully on your repo page! 🚀
+Or just create a new file called `README.md` in the root of `portfolio-cli/` and paste this content in. This readme is ready to be pushed to GitHub and will render beautifully on your repo page! 🚀# 🖥️ Srijan's Terminal Portfolio
+
+> *"The fact that tech can be so deep, amuses me a lot — and this is what makes me explore more and more."*
+
+An interactive, terminal-style portfolio website built with **Vite** and **Vanilla JavaScript**. Navigate through my work just like you would in a real Linux terminal — complete with commands, a virtual filesystem, easter eggs, and math support.
+
+🌐 **Live at → [cli.devsrijan.tech](https://cli.devsrijan.tech)**
+
+![Status](https://img.shields.io/badge/Status-Live-brightgreen)
+![Made With](https://img.shields.io/badge/Made%20With-JavaScript-yellow)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Vite](https://img.shields.io/badge/Vite-5.0-646CFF?logo=vite)
+![Domain](https://img.shields.io/badge/Domain-cli.devsrijan.tech-00ff00)
+
+---
+
+## 🎬 Preview
+
+```bash
+  ____            _     _              
+ / ___|   _ __   (_)   (_)  __ _  _ __ 
+ \___ \  | '__|  | |   | | / _` || '_ \
+  ___) | | |     | | _ | || (_| || | | |
+ |____/  |_|     |_|(_)|_| \__,_||_| |_|
+
+─────────────────────────────────────────────────────────────
+  Welcome to Srijan's Interactive Portfolio Terminal!
+  Last login: Sat Feb 28 2026 on ttys001
+─────────────────────────────────────────────────────────────
+  Type help to explore.   There are easter eggs hidden around. 🥚
+
+srijan@portfolio:~$
